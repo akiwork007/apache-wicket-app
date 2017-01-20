@@ -1,1 +1,1 @@
-# apache-wicket-app
+# Apache Wicket 7 Project
